@@ -16,4 +16,6 @@ python -m http.server 8000
 
 Then open http://localhost:8000.
 
-The CVF Open Access and Code buttons are placeholders (`href="#"`); update them in `index.html` once the URLs are set.
+Code: https://github.com/speedlab-git/SLADE
+
+The CVF Open Access button is a placeholder (`href="#"`); update it in `index.html` once the URL is set.
